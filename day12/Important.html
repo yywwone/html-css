@@ -1,0 +1,25 @@
+<!doctype html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Important</title>
+	<style>
+#wrapper strong{color: red;}/*权重=100+1=101*/
+
+.first strong{color: blue;}/*权重=10+1=11*/
+.first span strong{color: purple;}/*权重=10+1+1=12*/
+strong{color: pink  !important;}
+#wrapper .first{color: green !important;}/*权重=100+10+1=111*/
+	</style>
+</head>
+<body>
+	<div id="wrapper">
+		<p class="first">
+			<span>
+				<strong>大王叫我来巡山</strong>
+			</span>
+		</p>
+	</div>
+	
+</body>
+</html>

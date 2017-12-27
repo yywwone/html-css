@@ -1,0 +1,114 @@
+@charset "utf-8";
+*{padding: 0;margin: 0;text-decoration:none;list-style: none;font-family: 微软雅黑;}
+body{background-color: #00327c;width: 100%;}
+div{float: left;}
+
+#beijing_img{width:1002px;height: 867px; background-image: url(../images/background.jpg); margin-left: 459px;}
+
+#bianju{margin-left: 51px;}
+
+#yuyan{position: absolute;top: 10px;left: 1260px;}
+#yuyan a{color: #97d1ff; font-size: 10px;padding: 0 5px;}
+#yuyan a:hover{text-decoration:underline;color: #ffffff;}
+#yuyan p{background-color: #00317a;float:left;margin-left: 3px;width: 60px;height: 23px;line-height: 20px;}
+
+#nav{background-image: url(../images/nav.jpg);float: left;width: 900px;height: 37px;margin-top: -4px;}
+#nav li{float: left;line-height: 37px;}
+#nav li:hover{background-image: url(../images/choose.jpg);}
+#nav a{color: #ffffff;font-size: 15px;padding: 35px;}
+#nav a:hover{color: #20acff;}
+
+/*首页*/
+
+#neirong{background-image: url(../images/content.jpg);width: 900px;height: 422px;margin-top: 5px;float: left;}
+
+#redianzixun{margin-top: 20px;margin-left: 30px;float: left;width: 580px;height: 149px;}
+#redianzixun p{color: #fff;}
+.redianzixun_line{float: left;}
+#redianzixun_img{float: left;margin-top: 10px;}
+#redianzixun_p{float: left;font-size: 12px;color: #fff;margin-left: 10px;margin-top: 5px; }
+#redianzixun_p p{margin-top: 10px;}
+.redianzixuan_span{background-image: url(../images/choose2.png);padding: 1px;background-repeat: no-repeat;margin-left: 320px;margin-top: 5px;float: left;}
+.redianzixuan_span a{color: #ffffff;}
+
+#left_box2{width: 580px;height:212px;float: left;margin-top: 10px;margin-left: 30px;}
+#left_box2 p{margin-top: 20px;color: #fff;}
+
+#gongsixinwen{width: 310px;float: left;}
+.gongsixinwen_line{float: left;}
+#gongsixinwen a{color: #2c89c6;font-size: 10px;}
+#gongsixinwen span{margin-left:172px;}
+.gongsixinwen_img1{float: left;margin-left: 15px;margin-top: 10px;margin-left: 5px;}
+#gongsixinwen li a{color: #fff;}
+#gongsixinwen li a:hover{text-decoration: underline;}
+#gongsixinwen li{list-style-type: disc;float: left;color: #fff;margin-left: 25px;font-size: 10px;}
+
+#shangyedongtai{width: 270px;float: left;}
+.shangyedongtai_line{float: left;}
+#shangyedongtai a{color: #2c89c6;font-size: 10px;}
+#shangyedongtai span{margin-left:140px;}
+.shangyedongtai_img1{float: left;margin-left: 15px;margin-top: 10px;margin-left: 5px;}
+#shangyedongtai li a{color: #fff;}
+#shangyedongtai li a:hover{text-decoration: underline;}
+#shangyedongtai li{list-style-type: disc;float: left;color: #fff;margin-left: 25px;font-size: 10px;}
+
+#div3{width: 630px;height:400px;}
+
+#zuixinloupan{float: left;width: 250px;margin-right: 15px;margin-top: 20px;}
+.zuixinloupan_line{float: left;margin-bottom: 10px;}
+#zuixinloupan p a{margin-left: 125px;}
+
+#html{width: 900px;height: 61px;background-image: url(../images/bottom.jpg);}
+#html li{float: left;color: #97d1ff;}
+#html_dingwei{width: 550px;margin-left: 240px;}
+#html li a{color: #97d1ff;font-size: 10px;margin: 0 22px;}
+#html li a:hover{text-decoration:underline}
+.html_li{font-size: 10px;margin-left: 120px;margin-top: 10px;}
+
+/*公司简介*/
+#left_box{background-image: url(../images/page01-leftbar.jpg);width: 162px;height: 503px;margin-top: -3px;}
+#left_box li{width: 114px; height: 33px; float: left;line-height: 33px;background-image: url(../images/page01-line.jpg);background-repeat: no-repeat;background-position: bottom;margin-left: 26px;margin-top:3px;}
+#left_box a{color: #000000;font-weight: 400;}
+#left_box a:hover{color: #005bac;}
+#left_box h5{margin-top: 18px;margin-left: 26px;font-size: 15px;}
+#left_box h6{margin-left: 30px;font-size: 10px;color: #acacad;}
+#right_box{width: 738px;height: 503px;background-color: #fff;margin-top: -3px;}
+#right_box h5{margin: 35px 0 0 26px;}
+.right_box_line{margin-left: 6px;}
+.right_box_img{margin:5px 0px 5px 110px;}
+#right_box p{font-size: 10px;margin:0 74px 20px 56px;float: left;}
+/*新闻中心*/
+#right_box ul{margin-top: 24px;margin-left: 46px;font-size: 14px;}
+#right_box span{float: right;margin-right: 50px;}
+#right_box a{color: #747373;float: left;margin-right: 130px;margin-bottom: 10px;}
+#right_box a:hover{color: #010101;text-decoration:underline;}
+
+/*客户服务*/
+#body_box{width: 900px;height: 506px;background-color: #fff;margin-top: -4px;}
+#kehufuwu{width: 690px;}
+#body_box h5{margin:35px 0 0 26px;}
+.body_box_line{margin-left: 20px;}
+.body_box_p{margin: 10px 5px 10px 33px;font-size: 10px;}
+.body_box_line1{margin-left: 20px;}
+#body_box_img{width: 605px;height: 334px;margin-left: 50px;}
+#body_box_img_left{width: 249px;height: 334px;}
+#body_box_img li{float: left; }
+#body_box_img_left li{margin-right: 5px;}
+#body_box_img_right{float: left;width:355px;height: 334px; }
+#body_box_img_right li{margin-right: 5px;}
+#body_box_text{width: 210px;height: 503px;float: left;}
+#body_box_text li{;background-repeat: no-repeat;font-size: 15px;}
+#body_box_text a{color: #313131;}
+#body_box_text a:hover{text-decoration: underline;}
+#body_box_text_1{width: 170px;height: 86px;border: 1px solid #dedede;margin-top: 70px;text-align: center;}
+#body_box_text_2{width: 170px;height: 133px;border: 1px solid #dedede;text-align: center;}
+#body_box_text_3{width: 170px;height: 130px;border: 1px solid #dedede;text-align: center;}
+#body_box_text h3{font-size: 14px;font-weight: bold;margin-top: 30px;}
+#body_box_text p{font-size: 14px;color: #626262;}
+#body_box_text a{color: blue;}
+
+/* 人力资源 */
+#zy{width: 900px;height: 504px;background-color: #fff;margin-top: -3px;}
+#zy h4{margin: 30px 0 10px 15px;}
+#zy_kehufuwu img{float: left;}
+#zy_kehufuwu p{float: left;font-size: 14px;}

@@ -1,0 +1,21 @@
+@charset="UTF-8";
+body{background-color: #fcc;}
+*{padding: 0; margin: 0; text-decoration:none;font-family: 微软雅黑; }
+#wrapper{height:334px;width:991px;border:3px green solid;margin: 0px auuto; 
+background-color: #bd0013;}
+#wrapper div{width: 190px;height:334px;background-color: #fff;float: left;
+background-repeat: no-repeat;
+background-position: top center;
+margin-right:8px;}
+#block1 .rgb{color: #fff; display:inline-block; width:190px; height:18px; 
+	font-size:14px;
+ background:rgba(0,0,0,0.3); text-align:center; line-height:18px;
+  font-weight:bold;top:-25px}
+ #block1 .title_p1{text-align:center; font-size: 18px; }
+ #block1 .title_p2{color: red;border:1px red;font-weight: bold;
+ text-align: center;margin-bottom: -10px;}
+ #block1 .small_box1{color: red;border:1px red dashed;padding: 10px 10px;}
+ #block1 .small_box2{color: red;border:1px red dashed;padding: 10px 10px;}
+ #block1 a{display: inline-block;color: #fff;width: 70px;height: 30px;background-color: #bd0013;
+ 	font-size: 14px;text-align: center;line-height: 30px}
+

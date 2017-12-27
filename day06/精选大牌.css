@@ -1,0 +1,10 @@
+@charset "utf-8";
+#wapper{width: 1228px;height: 310px; background-color: #fcc;}
+#first{width: 480px;height: 310px;background-color: #e0dcd9;}
+#first .font_first{font-family: 微软雅黑; font-size: 36px;color: #b50029;}
+#first .font_second{font-size:48px;font-family: 微软雅黑;color: 3313236;font-weight: bold; }
+.flag_first{font-family: 微软雅黑}
+#first a{color: #000;font-size: 40px;font-family: 微软雅黑;font-weight: bold;}
+.flag_first{font-family: 微软雅黑}
+#first p{width: 198px;height: 30px;background-color: #b50029;color: #fff;font-family: 微软雅黑;text-align: center;line-height: 30px;}
+#first img{float: right;margin-top: -240px;}

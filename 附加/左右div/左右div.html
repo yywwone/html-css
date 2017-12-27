@@ -1,0 +1,25 @@
+<!doctype html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Document</title>
+	<style>
+	a{text-decoration: none;}
+		#main{width: 300px;height: 300px;margin: 150px auto;position: relative;}
+		#left{position: absolute;left: 10px;top: 120px;width: 50px;height: 100px;background-color: red;text-align: center;line-height: 100px;opacity: 0.5;display: none;}
+		#right{position: absolute;right: 10px;top: 120px;width: 50px;height: 100px;background-color: red;text-align: center;line-height: 100px;opacity: 0.5;display: none;}
+		#main:hover{opacity: 0.8;}
+		#main:hover #left{display: block;}
+		#main:hover #right{display: block;} 
+		#left:hover{opacity: 1;}   
+		#right:hover{opacity: 1;} 
+	</style>
+</head>
+<body>
+	<a href=""><div id="main">
+		<img src="1.jpg" alt="" width="300" height="300">
+		<div id="left">左</div>
+		<div id="right">右</div>
+	</div></a>
+</body>
+</html>

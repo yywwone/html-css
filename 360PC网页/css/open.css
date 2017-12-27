@@ -1,0 +1,40 @@
+@charset "utf-8";
+#header{width: 100%;height: 90px;background-color: #018e00;}
+#header_box{width: 997px;height: 90px;margin: 0 auto;}
+#header_box .logo{margin: 25px 10px 0px 0;float: left;}
+#header_box span{color: #fff;font-size: 20px;float: left;line-height: 90px;margin-right: 250px;}
+#header_box ul li a{float: left;line-height: 90px;color: #fff;font-size: 18px;margin: 0 25px;display: inline-block;height: 85px;}
+#header_box ul li a:hover{border-bottom: 3px #fff solid;}
+#header_box ul li img{margin: 35px 0 0 10px;}
+#open_main{width: 100%;height: 938px;background-color: #f7f8fa;}
+#main_box{width: 997px;height: 938px;margin: 0 auto;}
+#parter{height: 390px;position: relative;}
+#parter p{font-size: 48px;color: #49515c;text-align: center;font-weight: bold;margin: 100px 0 50px 260px;float: left;}
+#parter_greenbox{width: 360px;height: 60px;background-color: #29a600;text-align: center;color: #fff;font-size: 24px;line-height: 60px;float: left;border-radius: 3px;position: absolute;left: 50%;margin-left: -180px;top: 200px;}
+#main_content{height: 462px;}
+#main_content ul{display: table;width: 997px;}
+#main_content ul li {display: table-cell;height: 230px;vertical-align: middle;text-align: center;}
+#main_content ul li a{display: inline-block;width: 150px;height: 150px;border-radius: 75px;border: 2px #29a600 solid;vertical-align: middle;margin-bottom: 25px;text-align: center;}
+#main_content ul li img{margin-top: 30px;}
+#main_content ul li span{color: #29a600;}
+#main_content .bg_img1{background: url(../images/pingtai/3.png)no-repeat center center;}
+#main_content .bg_img2{background: url(../images/pingtai/4.png)no-repeat center center;}
+#main_content .bg_img3{background: url(../images/pingtai/5.png)no-repeat center center;}
+#main_content .bg_img4{background: url(../images/pingtai/6.png)no-repeat center center;}
+#main_content .bg_img5{background: url(../images/pingtai/7.png)no-repeat center center;}
+#main_content .bg_img6{background: url(../images/pingtai/8.png)no-repeat center center;}
+#main_content .bg_img7{background: url(../images/pingtai/9.png)no-repeat center center;}
+#main_content .bg_img8{background: url(../images/pingtai/10.png)no-repeat center center;}
+
+#main_box2{width: 100%;background-color: #fff;}
+#cooper_par{height: 530px;width: 997px;margin: 0 auto;position: relative;}
+#cooper_par #cooper_font{height: 167px;font-size: 30px;color: #6f737a;line-height: 167px;text-align: center;}
+#cooper_par ul{display: table;width: 997px;vertical-align: middle;text-align: center;}
+#cooper_par ul li{display: table-cell;height: 125px;border: 1px solid #e7e7e7;width: 240px;vertical-align: middle;}
+#cooper_par ul li{border-top: none;border-left: none;}
+#cooper_par .border-botton li{border-bottom: none;}
+#cooper_par .border-none{border-right:none; }
+#block_1,#block_2,#block_3{width: 37px;height: 37px;background-color: #FFF;}
+#block_1{position: absolute;top: 273px;left: 229px;}
+#block_2{position: absolute;top: 273px;left: 478px;}
+#block_3{position: absolute;top: 273px;left: 729px;}

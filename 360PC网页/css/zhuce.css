@@ -1,0 +1,19 @@
+@charset "utf-8";
+#zhuti{width: 100%;height:700px; }
+#content{width: 466px;height: 700px;margin: 30px auto; position: relative;}
+#content img{margin-left: 120px;margin-bottom: 40px;}
+#content h2{text-align: center;color: #1c9ce4;}
+#content p{color:#7c7c7c;font-size: 12px;margin:28px 0 49px 0; }
+#content ul{margin-left: 40px;}
+#content ul li .a1{width: 309px;height: 41px;margin-left: 11px;margin-bottom: 5px;border:1px solid #e8e8e8;border-bottom: none;}
+#content ul li .a2{width: 179px;height: 41px;margin-left: 11px;margin-bottom: 5px;border:1px solid #e8e8e8;border-bottom: none;}
+#content ul li .a3{position: absolute;top:272px;right: 56px}
+#content ul li .a4{position: absolute;top:319px;right: 56px}
+#content .content_input1{margin-left: 16px;}
+#content .content_input2{margin-left: -16px;}
+#content button{width: 389px;height: 44px;color: #fff;background-color: #1c9ce4;border: none;margin-left: -18px;}
+
+#tiaokuan{font-size: 14px;margin:15px 0 30px 21px;display: inline-block;}
+a{color: #0d99ec;}
+.qiehuan{font-size: 14px;margin-left: 160px;}
+.beian{font-size: 10px;margin-left: -30px;color: #7c7c7c;}

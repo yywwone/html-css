@@ -1,0 +1,35 @@
+@charset "utf-8";
+#header{width: 100%;background-color: #6fa3f8;}
+#header_content{height: 90px;margin: 0 auto;width: 997px;}
+.header_logo{float: left;margin: 20px 367px 0 0;}
+#header ul li{float: left;}
+#header ul li a{float: left;line-height: 80px;margin: 0 20px;color: #fff;display: inline-block;height: 90px;border-top: 5px solid transparent;}
+#header ul li img{margin: 33px 0 0 15px;}
+#header ul li a:hover{font-weight: bold;border-top: 5px #e2f1d3 solid;}
+
+#header2{width: 100%;background-color: #fff;}
+#header2_content{height: 99px;margin: 0 auto;width: 997px;}
+#header2_content ul{width: 997px;display: table;margin-top: 30px;}
+#header2_content ul li{display: table-cell;height: 45px;vertical-align: middle;text-align: center;color: #7a7a7a;}
+#header2_content #green_font{color: #63af20;}
+#header2_content img{margin:0 5px -10px 0;}
+#header2_content li+li{border-left: 1px #7a7a7a solid;}
+
+#main{width: 100%;background-color: #f5f5f5;}
+#main_body{margin: 0 auto;width: 997px;background-color: #fcc;overflow: hidden;}
+#body1{width:400px;background-color: #fc9;float: left; margin-left: 40px;margin-top: 110px;}
+#body2{width:120px;background-color: #9c9;float: left;}
+#body3{width:400px;background-color: #c9c;float: left;}
+#body1_box{width: 395px;height: 190px;background-color: #f8f8f8;margin-bottom: 190px;}
+#body1_box2{width: 395px;height: 406px;background-color: #f8f8f8;margin: 190px 0;float: left;}
+#body2_block1{width: 115px;height: 30px;border: 1px solid #60b104;border-radius: 3px;}
+#body2_block1 span{margin-right: -5px;color: #60b104;}
+#body2_radius{width: 60px;height: 50px;background-color: #5db300;border-radius: 40px;text-align: center;padding-top:10px;color: #fff;margin: 30px 0 0 30px;}
+#body2_block2{width: 50px;height: 180px;border: 1px solid red;margin: 15px auto;text-align: center;color: #5dd300;}
+#body2_block2 div{width: 5px;height: 105px;background-color: #58a91c;margin: 0 auto;}
+
+#body2_block3{width: 50px;height: 400px;border: 1px solid red;margin: 15px auto;text-align: center;color: #5dd300;}
+#body2_block3 div{width: 5px;height: 314px;background-color: #58a91c;margin: 0 auto;}
+
+#body2_block4{width: 50px;height: 400px;border: 1px solid red;margin: 15px auto;text-align: center;color: #5dd300;}
+#body2_block4 div{width: 5px;height: 314px;background-color: #58a91c;margin: 0 auto;}
